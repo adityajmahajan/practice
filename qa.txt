@@ -21,3 +21,4 @@ from vscode merge conflict
 
 
 qa
+from vscode merge conflict qa
